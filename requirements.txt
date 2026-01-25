@@ -1,0 +1,10 @@
+accelerate
+git+https://github.com/huggingface/diffusers
+transformers[torch]
+ultralytics
+matplotlib
+pillow
+numpy
+opencv-python
+torch
+
