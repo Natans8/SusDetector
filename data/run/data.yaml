@@ -1,0 +1,8 @@
+train: autosplit_train.txt
+test: autosplit_test.txt
+val: autosplit_val.txt
+path: data/run
+
+nc: 1
+names:
+  0: suspicious_object
