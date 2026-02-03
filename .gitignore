@@ -34,3 +34,4 @@ fabric.properties
 profile_default/
 ipython_config.py
 *.cache
+data/people-box/*.jpg
