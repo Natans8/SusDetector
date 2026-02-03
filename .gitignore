@@ -33,3 +33,4 @@ fabric.properties
 */.ipynb_checkpoints/*
 profile_default/
 ipython_config.py
+*.cache
