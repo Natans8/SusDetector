@@ -6,6 +6,6 @@ matplotlib
 pillow
 numpy
 opencv-python
-torch
-nunchaku
+torch==2.9.1+cu128
+nunchaku @ https://github.com/nunchaku-ai/nunchaku/releases/download/v1.1.0/nunchaku-1.1.0+torch2.9-cp313-cp313-linux_x86_64.whl
 
